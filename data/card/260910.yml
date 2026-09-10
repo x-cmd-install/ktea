@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:02:04Z
+  collectedAt: 2026-09-10T20:47:44Z
 timeline:
   created: 2024-12-26
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-03
   lastPrerelease: 
 popularity:
-  star: 440
+  star: 441
   watcher: 2
   fork: 17
   release: 23
@@ -85,7 +85,7 @@ total:
   commit: 189
 ---
 path: /home/runner/.x-repo/github.com/jonas-grgt/ktea
-collectedAt: 2026-09-10T05:02:05Z
+collectedAt: 2026-09-10T20:47:46Z
 loc:
   Go:
     code: 23315

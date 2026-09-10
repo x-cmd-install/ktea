@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: ktea
+  binname: ktea
+  visiblename: ktea
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  summary: Kafka TUI client
+  maintainers:
+    - olafhofman@aur
+  licenses:
+    - Apache-2.0
+- repo: freebsd
+  srcname: misc/ktea
+  binname: ktea
+  visiblename: misc/ktea
+  version: 0.8.0
+  origversion: 0.8.0_4
+  status: newest
+  summary: Kafka TUI client
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: ktea
+  visiblename: ktea
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Kafka TUI client
+- repo: homebrew
+  srcname: ktea
+  visiblename: ktea
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Kafka TUI client
