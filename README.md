@@ -4,7 +4,7 @@
 
 Kafka TUI client
 
-[![x-cmd/install — ktea Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ktea.svg)](https://x-cmd.com/install/ktea)
+[![x-cmd/install — ktea Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ktea.svg)](https://x-cmd.com/install/ktea)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **23,784** lines of code across **167** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 5 | 0 | 1 | 0 |
-| 360d | 2025-09-27 | 8 | 30 | 6 | 4 | 6 | 41 |
-| last720d | 2024-10-02 | 23 | 47 | 6 | 51 | 27 | 189 |
+| 30d | 2026-08-24 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 5 | 0 | 1 | 0 |
+| 360d | 2025-09-28 | 8 | 30 | 6 | 4 | 6 | 41 |
+| last720d | 2024-10-03 | 23 | 47 | 6 | 51 | 27 | 189 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:14Z._
