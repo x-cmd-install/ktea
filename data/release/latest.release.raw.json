@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6382990,
       "digest": "sha256:09bbb3b97b5e3c886c4b64d5f3c1d629aac87a2f7e75111c521f2c28a58bca88",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-11T09:55:07Z",
       "updated_at": "2026-10-11T09:55:07Z",
       "browser_download_url": "https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_amd64.tar.gz"
