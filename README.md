@@ -14,11 +14,11 @@ x install ktea
 
 ## Code insight
 
-Total: **24,169** lines of code across **168** files in the top 5 languages.
+Total: **23,746** lines of code across **172** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,700 | 943 | 3,876 | 160 |
+| Go | 23,277 | 893 | 3,802 | 164 |
 | Yaml | 327 | 21 | 16 | 4 |
 | Sh | 105 | 9 | 23 | 2 |
 | Bitbake | 34 | 0 | 2 | 1 |
@@ -32,7 +32,7 @@ Total: **24,169** lines of code across **168** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.1` (2026-10-11)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-18
 - **Assets in release**: 19
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **24,169** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 47 · **Open PRs**: 6 · **Closed issues**: 51 · **Open issues**: 27 · **Commits**: 190
+- **Releases**: 24 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 27 · **Commits**: 193
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-19 | 1 | 0 | 5 | 0 | 0 | 1 |
-| 90d | 2026-07-20 | 1 | 0 | 5 | 0 | 0 | 1 |
-| last180d | 2026-04-21 | 1 | 0 | 5 | 0 | 1 | 1 |
-| 360d | 2025-10-23 | 8 | 28 | 6 | 4 | 5 | 41 |
-| last720d | 2024-10-28 | 24 | 47 | 6 | 51 | 27 | 190 |
+| 30d | 2026-09-19 | 1 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-20 | 1 | 3 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-21 | 1 | 3 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-22 | 1 | 3 | 0 | 0 | 1 | 4 |
+| 360d | 2025-10-24 | 8 | 31 | 1 | 4 | 5 | 44 |
+| last720d | 2024-10-29 | 24 | 50 | 1 | 51 | 27 | 193 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:48:45Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:54:53Z._
