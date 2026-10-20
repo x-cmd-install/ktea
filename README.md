@@ -14,11 +14,11 @@ x install ktea
 
 ## Code insight
 
-Total: **23,746** lines of code across **172** files in the top 5 languages.
+Total: **24,820** lines of code across **179** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 23,277 | 893 | 3,802 | 164 |
+| Go | 24,351 | 962 | 3,913 | 171 |
 | Yaml | 327 | 21 | 16 | 4 |
 | Sh | 105 | 9 | 23 | 2 |
 | Bitbake | 34 | 0 | 2 | 1 |
@@ -32,27 +32,27 @@ Total: **23,746** lines of code across **172** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.1` (2026-10-11)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 443 · **Forks**: 18 · **Open issues**: 78 · **Contributors**: 9
+- **Stars**: 444 · **Forks**: 18 · **Open issues**: 78 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 27 · **Commits**: 193
+- **Releases**: 24 · **Merged PRs**: 51 · **Open PRs**: 6 · **Closed issues**: 51 · **Open issues**: 27 · **Commits**: 194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-20 | 1 | 3 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-21 | 1 | 3 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-22 | 1 | 3 | 0 | 0 | 1 | 4 |
-| 360d | 2025-10-24 | 8 | 31 | 1 | 4 | 5 | 44 |
-| last720d | 2024-10-29 | 24 | 50 | 1 | 51 | 27 | 193 |
+| 30d | 2026-09-20 | 1 | 4 | 5 | 0 | 0 | 5 |
+| last60d | 2026-08-21 | 1 | 4 | 5 | 0 | 0 | 5 |
+| 90d | 2026-07-22 | 1 | 4 | 5 | 0 | 0 | 5 |
+| last180d | 2026-04-23 | 1 | 4 | 5 | 0 | 1 | 5 |
+| 360d | 2025-10-25 | 8 | 32 | 6 | 4 | 5 | 45 |
+| last720d | 2024-10-30 | 24 | 51 | 6 | 51 | 27 | 194 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:54:53Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:08:30Z._
