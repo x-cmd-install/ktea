@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6382990,
       "digest": "sha256:09bbb3b97b5e3c886c4b64d5f3c1d629aac87a2f7e75111c521f2c28a58bca88",
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2026-10-11T09:55:07Z",
       "updated_at": "2026-10-11T09:55:07Z",
       "browser_download_url": "https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6172292,
       "digest": "sha256:7a9f027d75d33cf9352a3e6e269a378ccb028d12ff6ee50f4890a99ece84458d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-11T09:55:07Z",
       "updated_at": "2026-10-11T09:55:08Z",
       "browser_download_url": "https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.deb"
