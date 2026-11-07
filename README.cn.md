@@ -14,15 +14,15 @@ x install ktea
 
 ## 代码洞察
 
-合计: **24,820** 行代码（覆盖前 5 种语言、共 **179** 个文件）。
+合计: **25,371** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 24,351 | 962 | 3,913 | 171 |
+| Go | 24,862 | 1,015 | 4,001 | 176 |
 | Yaml | 327 | 21 | 16 | 4 |
 | Sh | 105 | 9 | 23 | 2 |
+| Makefile | 40 | 2 | 13 | 1 |
 | Bitbake | 34 | 0 | 2 | 1 |
-| Dockerfile | 3 | 0 | 1 | 1 |
 
 ## 源代码
 
@@ -31,52 +31,52 @@ x install ktea
 
 ## 发布
 
-- **最新版本**: `v0.8.1` (2026-10-11)
-- **最近提交**: 2026-10-20
+- **最新版本**: `v0.9.2` (2026-11-06)
+- **最近提交**: 2026-11-06
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 444 · **Fork**: 18 · **开放 issue**: 78 · **贡献者**: 9
+- **Star**: 444 · **Fork**: 19 · **开放 issue**: 80 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 54 · **开放 PR**: 6 · **已关闭 issue**: 51 · **开放 issue**: 27 · **提交数**: 197
+- **发布数**: 27 · **已合并 PR**: 60 · **开放 PR**: 1 · **已关闭 issue**: 54 · **开放 issue**: 26 · **提交数**: 211
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 7 | 5 | 0 | 0 | 8 |
-| last60d | 2026-09-07 | 1 | 7 | 5 | 0 | 0 | 8 |
-| 90d | 2026-08-08 | 1 | 7 | 5 | 0 | 0 | 8 |
-| last180d | 2026-05-10 | 1 | 7 | 5 | 0 | 1 | 8 |
-| 360d | 2025-11-11 | 5 | 26 | 6 | 2 | 5 | 33 |
-| last720d | 2024-11-16 | 24 | 54 | 6 | 51 | 27 | 197 |
+| 30d | 2026-10-08 | 4 | 13 | 0 | 1 | 1 | 22 |
+| last60d | 2026-09-08 | 4 | 13 | 0 | 1 | 1 | 22 |
+| 90d | 2026-08-09 | 4 | 13 | 0 | 1 | 1 | 22 |
+| last180d | 2026-05-11 | 4 | 13 | 0 | 1 | 2 | 22 |
+| 360d | 2025-11-12 | 8 | 32 | 1 | 3 | 6 | 47 |
+| last720d | 2024-11-17 | 27 | 60 | 1 | 54 | 26 | 211 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ktea_0.8.1_checksums.txt](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_checksums.txt) | 1.6 KiB | `other` |
-| [ktea_0.8.1_darwin_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_darwin_amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
-| [ktea_0.8.1_darwin_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_darwin_arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
-| [ktea_0.8.1_linux_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_amd64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [ktea_0.8.1_linux_arm.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
-| [ktea_0.8.1_linux_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_arm64.tar.gz) | 5.6 MiB | `native/linux/arm64` |
-| [ktea_0.8.1_windows_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_windows_amd64.tar.gz) | 6.2 MiB | `native/win/x64` |
-| [ktea_0.8.1_windows_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_windows_arm64.tar.gz) | 5.6 MiB | `native/win/arm64` |
-| [ktea_linux_amd64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.apk) | 6.4 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.deb) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.pkg.tar.zst) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.rpm) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_arm.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.apk) | 6.1 MiB | `native/linux/arm` |
-| [ktea_linux_arm.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.deb) | 5.9 MiB | `native/linux/arm` |
-| [ktea_linux_arm.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.rpm) | 5.9 MiB | `native/linux/arm` |
-| [ktea_linux_arm64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.apk) | 5.8 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.deb) | 5.6 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.pkg.tar.zst) | 5.5 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.rpm) | 5.6 MiB | `native/linux/arm64` |
+| [ktea_0.9.2_checksums.txt](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_checksums.txt) | 1.6 KiB | `other` |
+| [ktea_0.9.2_darwin_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_darwin_amd64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [ktea_0.9.2_darwin_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_darwin_arm64.tar.gz) | 6.4 MiB | `native/darwin/arm64` |
+| [ktea_0.9.2_linux_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [ktea_0.9.2_linux_arm.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_arm.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [ktea_0.9.2_linux_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_arm64.tar.gz) | 6.1 MiB | `native/linux/arm64` |
+| [ktea_0.9.2_windows_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_windows_amd64.tar.gz) | 6.8 MiB | `native/win/x64` |
+| [ktea_0.9.2_windows_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_windows_arm64.tar.gz) | 6.2 MiB | `native/win/arm64` |
+| [ktea_linux_amd64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.apk) | 7.0 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.deb) | 6.7 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.pkg.tar.zst) | 6.7 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.rpm) | 6.9 MiB | `native/linux/x64` |
+| [ktea_linux_arm.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.apk) | 6.7 MiB | `native/linux/arm` |
+| [ktea_linux_arm.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.deb) | 6.5 MiB | `native/linux/arm` |
+| [ktea_linux_arm.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.rpm) | 6.7 MiB | `native/linux/arm` |
+| [ktea_linux_arm64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.apk) | 6.3 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.deb) | 6.1 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.pkg.tar.zst) | 6.0 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.rpm) | 6.3 MiB | `native/linux/arm64` |
 
 ## 发行版状态
 
@@ -95,4 +95,4 @@ ktea 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:04:45Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:34:18Z._

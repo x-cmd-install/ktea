@@ -14,15 +14,15 @@ x install ktea
 
 ## Code insight
 
-Total: **24,820** lines of code across **179** files in the top 5 languages.
+Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 24,351 | 962 | 3,913 | 171 |
+| Go | 24,862 | 1,015 | 4,001 | 176 |
 | Yaml | 327 | 21 | 16 | 4 |
 | Sh | 105 | 9 | 23 | 2 |
+| Makefile | 40 | 2 | 13 | 1 |
 | Bitbake | 34 | 0 | 2 | 1 |
-| Dockerfile | 3 | 0 | 1 | 1 |
 
 ## Source
 
@@ -31,52 +31,52 @@ Total: **24,820** lines of code across **179** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.1` (2026-10-11)
-- **Last commit**: 2026-10-20
+- **Latest**: `v0.9.2` (2026-11-06)
+- **Last commit**: 2026-11-06
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 444 · **Forks**: 18 · **Open issues**: 78 · **Contributors**: 9
+- **Stars**: 444 · **Forks**: 19 · **Open issues**: 80 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 54 · **Open PRs**: 6 · **Closed issues**: 51 · **Open issues**: 27 · **Commits**: 197
+- **Releases**: 27 · **Merged PRs**: 60 · **Open PRs**: 1 · **Closed issues**: 54 · **Open issues**: 26 · **Commits**: 211
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 7 | 5 | 0 | 0 | 8 |
-| last60d | 2026-09-07 | 1 | 7 | 5 | 0 | 0 | 8 |
-| 90d | 2026-08-08 | 1 | 7 | 5 | 0 | 0 | 8 |
-| last180d | 2026-05-10 | 1 | 7 | 5 | 0 | 1 | 8 |
-| 360d | 2025-11-11 | 5 | 26 | 6 | 2 | 5 | 33 |
-| last720d | 2024-11-16 | 24 | 54 | 6 | 51 | 27 | 197 |
+| 30d | 2026-10-08 | 4 | 13 | 0 | 1 | 1 | 22 |
+| last60d | 2026-09-08 | 4 | 13 | 0 | 1 | 1 | 22 |
+| 90d | 2026-08-09 | 4 | 13 | 0 | 1 | 1 | 22 |
+| last180d | 2026-05-11 | 4 | 13 | 0 | 1 | 2 | 22 |
+| 360d | 2025-11-12 | 8 | 32 | 1 | 3 | 6 | 47 |
+| last720d | 2024-11-17 | 27 | 60 | 1 | 54 | 26 | 211 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ktea_0.8.1_checksums.txt](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_checksums.txt) | 1.6 KiB | `other` |
-| [ktea_0.8.1_darwin_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_darwin_amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
-| [ktea_0.8.1_darwin_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_darwin_arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
-| [ktea_0.8.1_linux_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_amd64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [ktea_0.8.1_linux_arm.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_arm.tar.gz) | 5.9 MiB | `native/linux/arm` |
-| [ktea_0.8.1_linux_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_linux_arm64.tar.gz) | 5.6 MiB | `native/linux/arm64` |
-| [ktea_0.8.1_windows_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_windows_amd64.tar.gz) | 6.2 MiB | `native/win/x64` |
-| [ktea_0.8.1_windows_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_0.8.1_windows_arm64.tar.gz) | 5.6 MiB | `native/win/arm64` |
-| [ktea_linux_amd64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.apk) | 6.4 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.deb) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.pkg.tar.zst) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_amd64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_amd64.rpm) | 6.1 MiB | `native/linux/x64` |
-| [ktea_linux_arm.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.apk) | 6.1 MiB | `native/linux/arm` |
-| [ktea_linux_arm.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.deb) | 5.9 MiB | `native/linux/arm` |
-| [ktea_linux_arm.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm.rpm) | 5.9 MiB | `native/linux/arm` |
-| [ktea_linux_arm64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.apk) | 5.8 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.deb) | 5.6 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.pkg.tar.zst) | 5.5 MiB | `native/linux/arm64` |
-| [ktea_linux_arm64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.8.1/ktea_linux_arm64.rpm) | 5.6 MiB | `native/linux/arm64` |
+| [ktea_0.9.2_checksums.txt](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_checksums.txt) | 1.6 KiB | `other` |
+| [ktea_0.9.2_darwin_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_darwin_amd64.tar.gz) | 6.8 MiB | `native/darwin/x64` |
+| [ktea_0.9.2_darwin_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_darwin_arm64.tar.gz) | 6.4 MiB | `native/darwin/arm64` |
+| [ktea_0.9.2_linux_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [ktea_0.9.2_linux_arm.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_arm.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [ktea_0.9.2_linux_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_linux_arm64.tar.gz) | 6.1 MiB | `native/linux/arm64` |
+| [ktea_0.9.2_windows_amd64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_windows_amd64.tar.gz) | 6.8 MiB | `native/win/x64` |
+| [ktea_0.9.2_windows_arm64.tar.gz](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_0.9.2_windows_arm64.tar.gz) | 6.2 MiB | `native/win/arm64` |
+| [ktea_linux_amd64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.apk) | 7.0 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.deb) | 6.7 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.pkg.tar.zst) | 6.7 MiB | `native/linux/x64` |
+| [ktea_linux_amd64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_amd64.rpm) | 6.9 MiB | `native/linux/x64` |
+| [ktea_linux_arm.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.apk) | 6.7 MiB | `native/linux/arm` |
+| [ktea_linux_arm.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.deb) | 6.5 MiB | `native/linux/arm` |
+| [ktea_linux_arm.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm.rpm) | 6.7 MiB | `native/linux/arm` |
+| [ktea_linux_arm64.apk](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.apk) | 6.3 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.deb](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.deb) | 6.1 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.pkg.tar.zst) | 6.0 MiB | `native/linux/arm64` |
+| [ktea_linux_arm64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.rpm) | 6.3 MiB | `native/linux/arm64` |
 
 ## Distribution status
 
@@ -95,4 +95,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:04:44Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:34:18Z._
