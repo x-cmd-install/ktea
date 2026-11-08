@@ -37,7 +37,7 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 444 · **Forks**: 19 · **Open issues**: 80 · **Contributors**: 10
+- **Stars**: 444 · **Forks**: 18 · **Open issues**: 80 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 13 | 0 | 1 | 1 | 22 |
-| last60d | 2026-09-08 | 4 | 13 | 0 | 1 | 1 | 22 |
-| 90d | 2026-08-09 | 4 | 13 | 0 | 1 | 1 | 22 |
-| last180d | 2026-05-11 | 4 | 13 | 0 | 1 | 2 | 22 |
-| 360d | 2025-11-12 | 8 | 32 | 1 | 3 | 6 | 47 |
-| last720d | 2024-11-17 | 27 | 60 | 1 | 54 | 26 | 211 |
+| 30d | 2026-10-09 | 4 | 13 | 0 | 1 | 1 | 21 |
+| last60d | 2026-09-09 | 4 | 13 | 0 | 1 | 1 | 22 |
+| 90d | 2026-08-10 | 4 | 13 | 0 | 1 | 1 | 22 |
+| last180d | 2026-05-12 | 4 | 13 | 0 | 1 | 2 | 22 |
+| 360d | 2025-11-13 | 8 | 31 | 1 | 3 | 6 | 46 |
+| last720d | 2024-11-18 | 27 | 60 | 1 | 54 | 26 | 211 |
 
 ## Release assets
 
@@ -80,11 +80,11 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/ktea). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/ktea). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.8.1` | ✅ latest |
+| Homebrew | `0.9.2` | ✅ latest |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:34:18Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:20:20Z._
