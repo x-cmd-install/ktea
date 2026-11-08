@@ -16,7 +16,7 @@
   visiblename: misc/ktea
   version: 0.8.1
   origversion: 0.8.1_1
-  status: newest
+  status: outdated
   summary: Kafka TUI client
   maintainers:
     - yuri@freebsd.org
@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: ktea
   visiblename: ktea
-  version: 0.8.1
+  version: 0.9.2
   origversion: null
   status: newest
   summary: Kafka TUI client
