@@ -47,12 +47,12 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 14 | 4 | 2 | 0 | 14 |
-| last60d | 2026-09-16 | 4 | 14 | 4 | 2 | 0 | 23 |
-| 90d | 2026-08-17 | 4 | 14 | 4 | 2 | 0 | 23 |
-| last180d | 2026-05-19 | 4 | 14 | 4 | 2 | 1 | 23 |
-| 360d | 2025-11-20 | 8 | 31 | 5 | 4 | 5 | 44 |
-| last720d | 2024-11-25 | 27 | 61 | 5 | 55 | 25 | 212 |
+| 30d | 2026-10-17 | 3 | 14 | 4 | 2 | 0 | 14 |
+| last60d | 2026-09-17 | 4 | 14 | 4 | 2 | 0 | 23 |
+| 90d | 2026-08-18 | 4 | 14 | 4 | 2 | 0 | 23 |
+| last180d | 2026-05-20 | 4 | 14 | 4 | 2 | 1 | 23 |
+| 360d | 2025-11-21 | 8 | 31 | 4 | 4 | 4 | 44 |
+| last720d | 2024-11-26 | 27 | 61 | 5 | 55 | 25 | 212 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:52:01Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:17:58Z._
