@@ -32,7 +32,7 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2026-11-06)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 19
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 62 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 25 · **Commits**: 213
+- **Releases**: 27 · **Merged PRs**: 63 · **Open PRs**: 5 · **Closed issues**: 55 · **Open issues**: 25 · **Commits**: 214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 6 | 4 | 2 | 0 | 0 |
-| last60d | 2026-09-24 | 4 | 15 | 4 | 2 | 0 | 0 |
-| 90d | 2026-08-25 | 4 | 15 | 4 | 2 | 0 | 0 |
-| last180d | 2026-05-27 | 4 | 15 | 4 | 2 | 0 | 0 |
-| 360d | 2025-11-28 | 8 | 30 | 4 | 4 | 4 | 0 |
-| last720d | 2024-12-03 | 27 | 62 | 5 | 55 | 25 | 213 |
+| 30d | 2026-10-25 | 3 | 7 | 4 | 2 | 0 | 15 |
+| last60d | 2026-09-25 | 4 | 16 | 4 | 2 | 0 | 25 |
+| 90d | 2026-08-26 | 4 | 16 | 4 | 2 | 0 | 25 |
+| last180d | 2026-05-28 | 4 | 16 | 4 | 2 | 0 | 25 |
+| 360d | 2025-11-29 | 8 | 31 | 4 | 4 | 4 | 45 |
+| last720d | 2024-12-04 | 27 | 63 | 5 | 55 | 25 | 214 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:23:42Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:21:01Z._
