@@ -47,12 +47,12 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 7 | 4 | 2 | 0 | 15 |
-| last60d | 2026-09-25 | 4 | 16 | 4 | 2 | 0 | 25 |
-| 90d | 2026-08-26 | 4 | 16 | 4 | 2 | 0 | 25 |
-| last180d | 2026-05-28 | 4 | 16 | 4 | 2 | 0 | 25 |
-| 360d | 2025-11-29 | 8 | 31 | 4 | 4 | 4 | 45 |
-| last720d | 2024-12-04 | 27 | 63 | 5 | 55 | 25 | 214 |
+| 30d | 2026-10-26 | 3 | 5 | 4 | 2 | 0 | 15 |
+| last60d | 2026-09-26 | 4 | 16 | 4 | 2 | 0 | 25 |
+| 90d | 2026-08-27 | 4 | 16 | 4 | 2 | 0 | 25 |
+| last180d | 2026-05-29 | 4 | 16 | 4 | 2 | 0 | 25 |
+| 360d | 2025-11-30 | 8 | 31 | 4 | 4 | 4 | 45 |
+| last720d | 2024-12-05 | 27 | 63 | 5 | 55 | 25 | 214 |
 
 ## Release assets
 
@@ -78,14 +78,6 @@ Total: **25,371** lines of code across **184** files in the top 5 languages.
 | [ktea_linux_arm64.pkg.tar.zst](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.pkg.tar.zst) | 6.0 MiB | `native/linux/arm64` |
 | [ktea_linux_arm64.rpm](https://github.com/jonas-grgt/ktea/releases/download/v0.9.2/ktea_linux_arm64.rpm) | 6.3 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/ktea). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.9.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ktea` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +87,4 @@ Install metadata for ktea lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:21:01Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:18:37Z._
